@@ -1,0 +1,14 @@
+D:\현석\Project\C#\Color Picker\Color Picker\bin\Debug\Color Picker.exe.config
+D:\현석\Project\C#\Color Picker\Color Picker\bin\Debug\Color Picker.exe
+D:\현석\Project\C#\Color Picker\Color Picker\bin\Debug\Color Picker.pdb
+D:\현석\Project\C#\Color Picker\Color Picker\obj\Debug\Color Picker.csprojAssemblyReference.cache
+D:\현석\Project\C#\Color Picker\Color Picker\obj\Debug\Color_Picker.Form1.resources
+D:\현석\Project\C#\Color Picker\Color Picker\obj\Debug\Color_Picker.Properties.Resources.resources
+D:\현석\Project\C#\Color Picker\Color Picker\obj\Debug\Color Picker.csproj.GenerateResource.cache
+D:\현석\Project\C#\Color Picker\Color Picker\obj\Debug\Color Picker.csproj.CoreCompileInputs.cache
+D:\현석\Project\C#\Color Picker\Color Picker\obj\Debug\Color Picker.exe
+D:\현석\Project\C#\Color Picker\Color Picker\obj\Debug\Color Picker.pdb
+D:\현석\Project\C#\Color Picker\Color Picker\bin\Debug\MetroFramework.dll
+D:\현석\Project\C#\Color Picker\Color Picker\bin\Debug\MetroFramework.Fonts.dll
+D:\현석\Project\C#\Color Picker\Color Picker\obj\Debug\Color Picker.csproj.CopyComplete
+D:\현석\Project\C#\Color Picker\Color Picker\obj\Debug\Color_Picker.Form2.resources
